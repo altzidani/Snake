@@ -1,0 +1,9 @@
+{
+    "x_grids": 26,
+    "y_grids": 16,
+    "grid_size": 40,
+    "SCREEN_WIDTH": 1041,
+    "SCREEN_HEIGHT": 721,
+    "VOLUME": 0.5,
+    "FPS": 10
+}
